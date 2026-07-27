@@ -11,6 +11,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/rishabh9195/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,4 +53,9 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
