@@ -27,6 +27,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/rishabh9195/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/rishabh9195/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -115,6 +116,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rishabh9195/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/rishabh9195/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
