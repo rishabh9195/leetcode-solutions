@@ -35,6 +35,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishabh9195/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/rishabh9195/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -105,6 +106,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishabh9195/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -115,6 +117,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishabh9195/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
