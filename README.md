@@ -102,6 +102,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/rishabh9195/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/0022-generate-parentheses) |
