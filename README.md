@@ -62,6 +62,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +105,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0013-roman-to-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -127,6 +129,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0039-combination-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rishabh9195/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh9195/leetcode-solutions/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
 | ------- |
