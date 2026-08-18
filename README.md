@@ -196,4 +196,8 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/rishabh9195/leetcode-solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
