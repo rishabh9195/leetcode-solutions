@@ -13,6 +13,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rishabh9195/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh9195/leetcode-solutions/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/rishabh9195/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/rishabh9195/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/rishabh9195/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
