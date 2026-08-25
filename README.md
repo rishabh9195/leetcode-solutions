@@ -39,6 +39,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rishabh9195/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -58,6 +59,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0027-remove-element](https://github.com/rishabh9195/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/rishabh9195/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -95,6 +97,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0013-roman-to-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rishabh9195/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -176,6 +179,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
