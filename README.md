@@ -125,6 +125,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0022-generate-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishabh9195/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -138,6 +139,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishabh9195/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
