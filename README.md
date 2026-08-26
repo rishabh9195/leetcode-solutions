@@ -13,6 +13,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rishabh9195/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh9195/leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rishabh9195/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -73,6 +74,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
@@ -225,4 +227,8 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
