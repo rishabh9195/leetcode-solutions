@@ -24,6 +24,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0739-daily-temperatures](https://github.com/rishabh9195/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0896-monotonic-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -80,6 +81,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0053-maximum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -237,4 +239,13 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
