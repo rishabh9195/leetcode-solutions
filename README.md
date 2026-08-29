@@ -27,6 +27,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0896-monotonic-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -41,6 +42,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0238-product-of-array-except-self](https://github.com/rishabh9195/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishabh9195/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +53,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabh9195/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
