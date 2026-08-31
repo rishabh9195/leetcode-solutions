@@ -188,6 +188,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0021-merge-two-sorted-lists](https://github.com/rishabh9195/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/rishabh9195/leetcode-solutions/tree/master/0143-reorder-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rishabh9195/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
