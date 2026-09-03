@@ -14,6 +14,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0046-permutations](https://github.com/rishabh9195/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh9195/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/rishabh9195/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rishabh9195/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -134,6 +135,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rishabh9195/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -290,4 +292,8 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rishabh9195/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
