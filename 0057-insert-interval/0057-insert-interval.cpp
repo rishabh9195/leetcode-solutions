@@ -1,7 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        intervals.push_back(newInterval);
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
         sort(intervals.begin(), intervals.end());
         vector<vector<int>> res;
         int start1=intervals[0][0];
@@ -25,5 +24,26 @@ public:
         }
         res.push_back({start1,end1});
         return res;
+    }
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        vector<vector<int>> res;
+        bool insert=false;
+        for(int i=0;i<intervals.size();i++)
+        {
+            if(insert==false && intervals[i][0]>newInterval[0])
+            {
+                res.push_back(newInterval);
+                insert=true;
+            }
+            res.push_back(intervals[i]);
+        }
+        if(insert==false)
+        {
+            res.push_back(newInterval);
+        }
+
+        vector<vector<int>>ans;
+        ans=merge(res);
+        return ans;
     }
 };
