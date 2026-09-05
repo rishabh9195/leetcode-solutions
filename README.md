@@ -43,6 +43,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [3875-construct-uniform-parity-array-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +53,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0724-find-pivot-index](https://github.com/rishabh9195/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
