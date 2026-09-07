@@ -6,6 +6,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rishabh9195/leetcode-solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/rishabh9195/leetcode-solutions/tree/master/0036-valid-sudoku) |
@@ -58,6 +59,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rishabh9195/leetcode-solutions/tree/master/0036-valid-sudoku) |
