@@ -92,6 +92,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0986-interval-list-intersections](https://github.com/rishabh9195/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
@@ -136,6 +137,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rishabh9195/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -200,6 +202,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Linked List
 |  |
 | ------- |
