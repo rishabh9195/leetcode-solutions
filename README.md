@@ -137,6 +137,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rishabh9195/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -217,6 +218,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rishabh9195/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rishabh9195/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -225,6 +227,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rishabh9195/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/rishabh9195/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Enumeration
