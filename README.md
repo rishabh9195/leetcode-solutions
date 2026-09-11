@@ -45,6 +45,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rishabh9195/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +80,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rishabh9195/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishabh9195/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rishabh9195/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -230,10 +232,12 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0002-add-two-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rishabh9195/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/rishabh9195/leetcode-solutions/tree/master/0143-reorder-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
