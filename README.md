@@ -26,6 +26,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/rishabh9195/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0525-contiguous-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -221,6 +222,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0074-search-a-2d-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
