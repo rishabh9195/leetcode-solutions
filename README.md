@@ -36,6 +36,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0739-daily-temperatures](https://github.com/rishabh9195/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/rishabh9195/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/rishabh9195/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -111,6 +112,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/rishabh9195/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
