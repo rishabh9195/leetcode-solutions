@@ -294,6 +294,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +304,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,6 +317,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -380,4 +383,12 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rishabh9195/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
