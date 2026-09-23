@@ -23,6 +23,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0066-plus-one](https://github.com/rishabh9195/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -80,6 +81,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rishabh9195/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -306,6 +308,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -359,6 +362,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -405,6 +409,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
