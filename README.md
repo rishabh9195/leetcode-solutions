@@ -35,6 +35,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/rishabh9195/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
+| [0457-circular-array-loop](https://github.com/rishabh9195/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -120,6 +122,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/rishabh9195/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -298,6 +301,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/rishabh9195/leetcode-solutions/tree/master/0457-circular-array-loop) |
 ## Bracket Sequences
 |  |
 | ------- |
