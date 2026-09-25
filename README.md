@@ -22,6 +22,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0057-insert-interval](https://github.com/rishabh9195/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/rishabh9195/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/rishabh9195/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -114,6 +115,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0027-remove-element](https://github.com/rishabh9195/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/rishabh9195/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/rishabh9195/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -188,6 +190,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rishabh9195/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rishabh9195/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -448,6 +451,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rishabh9195/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rishabh9195/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Sweep Line
 |  |
@@ -489,4 +493,8 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishabh9195/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
