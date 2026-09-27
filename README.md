@@ -30,6 +30,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rishabh9195/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rishabh9195/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0275-h-index-ii) |
@@ -89,6 +90,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/rishabh9195/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0457-circular-array-loop](https://github.com/rishabh9195/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -199,6 +201,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0015-3sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rishabh9195/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rishabh9195/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/rishabh9195/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
