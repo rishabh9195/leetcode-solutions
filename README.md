@@ -151,6 +151,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rishabh9195/leetcode-solutions/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -336,6 +337,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -365,6 +367,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -396,6 +399,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -520,6 +524,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabh9195/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Bubble Sort
