@@ -134,6 +134,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/rishabh9195/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [2396-strictly-palindromic-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rishabh9195/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -192,6 +193,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishabh9195/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabh9195/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2396-strictly-palindromic-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh9195/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -554,4 +556,8 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rishabh9195/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
