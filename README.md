@@ -145,6 +145,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0055-jump-game](https://github.com/rishabh9195/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rishabh9195/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rishabh9195/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -177,6 +178,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0739-daily-temperatures](https://github.com/rishabh9195/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -241,6 +243,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabh9195/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -332,6 +335,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0020-valid-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
