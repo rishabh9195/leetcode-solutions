@@ -55,6 +55,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/rishabh9195/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishabh9195/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -104,6 +105,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishabh9195/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabh9195/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabh9195/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -262,6 +264,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Counting Sort
 |  |
 | ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishabh9195/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabh9195/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
