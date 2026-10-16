@@ -95,6 +95,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rishabh9195/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rishabh9195/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/rishabh9195/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -253,6 +254,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0022-generate-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rishabh9195/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/rishabh9195/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -277,6 +279,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rishabh9195/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
