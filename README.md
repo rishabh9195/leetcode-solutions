@@ -211,6 +211,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0836-rectangle-overlap](https://github.com/rishabh9195/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabh9195/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishabh9195/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/rishabh9195/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
