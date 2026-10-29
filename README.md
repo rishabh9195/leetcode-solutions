@@ -445,6 +445,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0951-flip-equivalent-binary-trees](https://github.com/rishabh9195/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabh9195/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rishabh9195/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -505,6 +506,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0994-rotting-oranges](https://github.com/rishabh9195/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabh9195/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rishabh9195/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
 | ------- |
@@ -633,11 +635,13 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0200-number-of-islands](https://github.com/rishabh9195/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rishabh9195/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rishabh9195/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
 | ------- |
