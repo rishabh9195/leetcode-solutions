@@ -442,6 +442,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0572-subtree-of-another-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/rishabh9195/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0951-flip-equivalent-binary-trees](https://github.com/rishabh9195/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabh9195/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -502,6 +503,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/rishabh9195/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rishabh9195/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabh9195/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -641,6 +643,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/rishabh9195/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh9195/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
