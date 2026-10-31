@@ -108,6 +108,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0138-copy-list-with-random-pointer](https://github.com/rishabh9195/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rishabh9195/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/rishabh9195/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/rishabh9195/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -272,6 +273,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0076-minimum-window-substring](https://github.com/rishabh9195/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0383-ransom-note](https://github.com/rishabh9195/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -288,6 +290,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/rishabh9195/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishabh9195/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabh9195/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
