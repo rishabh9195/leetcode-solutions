@@ -63,6 +63,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0994-rotting-oranges](https://github.com/rishabh9195/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishabh9195/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishabh9195/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabh9195/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -162,6 +163,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/rishabh9195/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishabh9195/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rishabh9195/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -259,6 +261,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishabh9195/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rishabh9195/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -341,6 +344,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0713-subarray-product-less-than-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabh9195/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishabh9195/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabh9195/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
