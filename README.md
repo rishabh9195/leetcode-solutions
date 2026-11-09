@@ -32,6 +32,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/rishabh9195/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/rishabh9195/leetcode-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -171,6 +172,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rishabh9195/leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/rishabh9195/leetcode-solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/rishabh9195/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rishabh9195/leetcode-solutions/tree/master/0860-lemonade-change) |
