@@ -1,26 +1,18 @@
 class Solution {
 public:
-
-    unordered_map<int,int>dp;
-    int fun(int n)
-    {
+    int fib(int n) {
         if(n==0 || n==1)
         {
             return n;
         }
+        vector<int>dp(n+1);
+        dp[0]=0;
+        dp[1]=1;
 
-        if(dp.find(n)!=dp.end())
+        for(int i=2;i<=n;i++)
         {
-            return dp[n];
+            dp[i]=dp[i-1]+dp[i-2];
         }
-
-        int ans=fun(n-1)+fun(n-2);
-        
-        dp[n]=ans;
-        
-        return ans;
-    }
-    int fib(int n) {
-        return fun(n);
+        return dp[n];
     }
 };
