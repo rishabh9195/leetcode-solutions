@@ -50,6 +50,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishabh9195/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -165,6 +166,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/rishabh9195/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/rishabh9195/leetcode-solutions/tree/master/0986-interval-list-intersections) |
@@ -179,6 +181,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0135-candy](https://github.com/rishabh9195/leetcode-solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/rishabh9195/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0860-lemonade-change](https://github.com/rishabh9195/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -215,6 +218,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabh9195/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/rishabh9195/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/rishabh9195/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -224,6 +228,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishabh9195/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/rishabh9195/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Math
@@ -268,6 +273,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/rishabh9195/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rishabh9195/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
