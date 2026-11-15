@@ -70,6 +70,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabh9195/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -99,6 +100,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0713-subarray-product-less-than-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishabh9195/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -206,6 +208,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
@@ -247,6 +250,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishabh9195/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabh9195/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishabh9195/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/rishabh9195/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
