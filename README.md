@@ -249,6 +249,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
+| [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -487,6 +488,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -550,6 +552,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0199-binary-tree-right-side-view](https://github.com/rishabh9195/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rishabh9195/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -716,17 +719,21 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Bézout's Lemma
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
