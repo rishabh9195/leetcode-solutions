@@ -68,6 +68,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0994-rotting-oranges](https://github.com/rishabh9195/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishabh9195/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rishabh9195/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -253,6 +254,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishabh9195/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabh9195/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishabh9195/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -707,4 +709,24 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishabh9195/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
