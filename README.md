@@ -47,6 +47,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0283-move-zeroes](https://github.com/rishabh9195/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishabh9195/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/rishabh9195/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -212,6 +213,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0131-palindrome-partitioning](https://github.com/rishabh9195/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rishabh9195/leetcode-solutions/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -742,4 +744,12 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
