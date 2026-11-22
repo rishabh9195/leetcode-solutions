@@ -328,6 +328,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [1021-remove-outermost-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabh9195/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rishabh9195/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabh9195/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/rishabh9195/leetcode-solutions/tree/master/2409-count-days-spent-together) |
