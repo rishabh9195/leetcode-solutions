@@ -197,6 +197,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0409-longest-palindrome](https://github.com/rishabh9195/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rishabh9195/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0765-couples-holding-hands](https://github.com/rishabh9195/leetcode-solutions/tree/master/0765-couples-holding-hands) |
 | [0860-lemonade-change](https://github.com/rishabh9195/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishabh9195/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -509,6 +510,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0765-couples-holding-hands](https://github.com/rishabh9195/leetcode-solutions/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/rishabh9195/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0951-flip-equivalent-binary-trees](https://github.com/rishabh9195/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
@@ -571,6 +573,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabh9195/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0765-couples-holding-hands](https://github.com/rishabh9195/leetcode-solutions/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/rishabh9195/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rishabh9195/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -707,12 +710,14 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0130-surrounded-regions](https://github.com/rishabh9195/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabh9195/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0765-couples-holding-hands](https://github.com/rishabh9195/leetcode-solutions/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh9195/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rishabh9195/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0765-couples-holding-hands](https://github.com/rishabh9195/leetcode-solutions/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rishabh9195/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/rishabh9195/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rishabh9195/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
