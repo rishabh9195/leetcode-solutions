@@ -71,6 +71,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishabh9195/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rishabh9195/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rishabh9195/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -108,6 +109,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0713-subarray-product-less-than-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishabh9195/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishabh9195/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rishabh9195/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rishabh9195/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -264,6 +266,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0633-sum-of-square-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishabh9195/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rishabh9195/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabh9195/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishabh9195/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -679,6 +682,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rishabh9195/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -755,4 +759,8 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rishabh9195/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
