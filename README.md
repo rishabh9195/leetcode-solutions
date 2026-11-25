@@ -588,6 +588,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/rishabh9195/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/rishabh9195/leetcode-solutions/tree/master/0584-find-customer-referee) |
 ## Simulation
 |  |
