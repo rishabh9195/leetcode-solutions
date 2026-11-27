@@ -263,6 +263,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabh9195/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/rishabh9195/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/rishabh9195/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishabh9195/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -416,6 +417,7 @@ My accepted LeetCode solutions in C++ with clean and optimized implementations.
 | [0002-add-two-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rishabh9195/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/rishabh9195/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0326-power-of-three](https://github.com/rishabh9195/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rishabh9195/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishabh9195/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
